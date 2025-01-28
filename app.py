@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1xUWeqZ8tSyTAyw155e54qI95dE-D8Gcq
 """
 
-pip install transformers
+%pip install transformers
 
 # -*- coding: utf-8 -*-
 """app.ipynb
